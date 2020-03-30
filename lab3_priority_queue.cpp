@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Lab Assignment 2:
+// Lab Assignment 3:
 //    Group #28
 //    Kate Harvey, ID# 20829173
 //    Jessica Lui, ID# 20837325
